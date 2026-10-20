@@ -258,11 +258,11 @@ High-income customers generate more than half of total portfolio revenue.
 # 📷 Dashboard Screenshots
 
 ## Credit Card Transaction Dashboard
-
+https://github.com/taha5847/Credit_Card_Report/blob/fdaefa555707ba2d23f4b7e2606c68290cb6d13f/Credit_Card_Transaction_Customer_Report.pdf
 
 
 ## Credit Card Customer Dashboard
-
+https://github.com/taha5847/Credit_Card_Report/blob/fdaefa555707ba2d23f4b7e2606c68290cb6d13f/Credit_Card_Transaction_Customer_Report.pdf
 
 
 ### Recommended GitHub Structure
